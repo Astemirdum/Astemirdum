@@ -3,9 +3,9 @@
 This is the place where I opensource stuff and break things 🤣
 
 - 🔭 &nbsp;I’m currently working on something cool 😉
-- 🌱 &nbsp;I’m currently learning Go, Javascript
-- 💬 &nbsp;Ask me about anything related to Go/C/pSQL or K8s/Gitlab/Docker
-- ⚡ &nbsp;Fun fact: I am into 🏋🏓 and I am good at finance 💰
+- 🌱 &nbsp;I’m currently learning Rust, Js
+- 💬 &nbsp;Ask me about anything related to Go/C/Python or K8s/Docker
+- ⚡ &nbsp;Fun fact: I am into 🏋🏓
 
 ✨  About Me
 I am a Backend Developer with 2+ years of experience in developing enterprise applications and open-source software.
